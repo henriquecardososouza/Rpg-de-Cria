@@ -30,6 +30,3 @@ nessa playlist e no meu programa ocorreu o surgimento desse projeto.
 ![](https://i.postimg.cc/bwwbqK7r/image6.png)
 
 ---
-## O projeto encontra-se disponível [aqui](https://rpg-de-cria.netlify.app/)
-
----
